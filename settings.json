@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "NotRoman55",
-    "password": "SAHIBROMAN@55555",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "SAHIBROMAN@55555"
     },
     "anti-afk": {
       "enabled": true,
